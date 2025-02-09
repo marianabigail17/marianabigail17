@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marianabigail17
+- 👋 Hi, I’marian
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on nothing I'm new
