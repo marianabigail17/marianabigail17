@@ -1,4 +1,4 @@
-- 👋 Hi, I’marian
+- 👋 Hi, I’m marian
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on nothing I'm new
